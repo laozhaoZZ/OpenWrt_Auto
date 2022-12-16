@@ -7,7 +7,7 @@
 #Thanks: eSirPlayground | P3TERX | kenzok8               #
 #========================================================#
 
-name: OP_64_Build
+name: OP_64_Builds
 
 on: 
   repository_dispatch:
